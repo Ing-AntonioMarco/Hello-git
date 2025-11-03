@@ -11,3 +11,4 @@ console.log("Goodbye, JavaScript!");
 
 let message = "End of the script.";
 console.log(message);
+
