@@ -13,3 +13,7 @@ let message = "End of the script.";
 console.log(message);
 
 /*esto es un comentario*/
+
+for (let i = 0; i < 5; i++) {
+    console.log("Iteration number: " + i);
+}
