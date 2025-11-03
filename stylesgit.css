@@ -1,0 +1,12 @@
+.fondo-rojo {
+    /* fondo: #5BF527 */
+    /* altura: 300px */
+    /* ancho: 500px */
+    /* flex: centrado */
+    background-color: #5BF527;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center; /* Puedes agregar más código */
+    align-items: center;
+}
