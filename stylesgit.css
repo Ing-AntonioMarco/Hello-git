@@ -10,3 +10,13 @@
     justify-content: center; /* Puedes agregar más código */
     align-items: center;
 }
+
+
+
+
+.list-element {
+    font-size: 23px;
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+}
