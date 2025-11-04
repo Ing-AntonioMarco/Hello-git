@@ -17,4 +17,5 @@ console.log(message);
 for (let i = 0; i < 5; i++) {
     console.log("Iteration number: " + i);
     console.log("Looping through the iterations.");
+    console.log("This is fun!");
 }
